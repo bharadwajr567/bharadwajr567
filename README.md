@@ -9,8 +9,8 @@
       - Istio, 
       - gRPC, 
       - CI/CD, 
-      - Kubernetes 
-      - Terraform  
+      - Kubernetes, 
+      - Terraform, 
       - Observability, 
       - ServiceMesh, 
       - Opentelemtry, 
