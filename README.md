@@ -7,8 +7,8 @@
 - Istio, 
 - gRPC, 
 - CI/CD, 
-- Kubernetes![image](https://user-images.githubusercontent.com/60858844/117481032-41eb9980-af17-11eb-90d4-6fd68b4c86cb.png) 
-- Terraform ![image](https://user-images.githubusercontent.com/60858844/117481075-4fa11f00-af17-11eb-9fda-68bebac17909.png) 
+- Kubernetes ![image](https://user-images.githubusercontent.com/60858844/117481639-1b7a2e00-af18-11eb-8b6f-e12583fbe77b.png),
+- Terraform  ![image](https://user-images.githubusercontent.com/60858844/117481370-c3dbc280-af17-11eb-9a7f-93efb412ccd6.png),
 - Observability, 
 - ServiceMesh, 
 - Opentelemtry, 
