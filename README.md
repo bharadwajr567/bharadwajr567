@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bharadwajr567
+- 👋 Hi, I’m @bharadwajr
 - 👀 I’m interested in **SRE,DevOps,Observability, Opentelemtry, Kubernetes, Config-Management, Baremetal, Containers, Linux, OS, HW**
 - 🌱 I’m currently learning - **Go**
 - 💞️ I’m looking to collaborate on **SRE, DevOps**
