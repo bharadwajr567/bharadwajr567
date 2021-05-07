@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/60858844/117482453-44e78980-af19-11eb-9f05-8d803c78604d.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/60858844/117483639-d0154f00-af1a-11eb-8592-8494261e994b.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/60858844/117483895-34381300-af1b-11eb-8476-2299b1e1a125.png" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/60858844/117482453-44e78980-af19-11eb-9f05-8d803c78604d.png" width="75" height="75"> | <img src="https://user-images.githubusercontent.com/60858844/117483639-d0154f00-af1a-11eb-8592-8494261e994b.png" width="75" height="75"> | <img src="https://user-images.githubusercontent.com/60858844/117483895-34381300-af1b-11eb-8476-2299b1e1a125.png" width="75" height="75">
 
 - 👋 Hi, I’m @bharadwajr
 - 👀 I’m interested in 
